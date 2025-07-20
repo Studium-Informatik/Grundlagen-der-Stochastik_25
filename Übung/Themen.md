@@ -90,7 +90,6 @@
 - **Unabhängigkeit von Zufallsvariablen (i.i.d.)**: Wichtig für Grenzwerte und Gesetze der großen Zahlen. Der **Klonsatz (4.5.1)** sichert die Existenz unabhängiger ZV mit vorgegebener Verteilung.
 
 ### 7. Einführung in die Statistik
-
 - **Hypothesentest**:
     - **Nullhypothese (H0)**: Die Standardannahme, kein Unterschied oder Zusammenhang.
     - **Arbeitshypothese (H1)**: Die Behauptung, die wir stützen wollen.
