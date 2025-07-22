@@ -59,14 +59,12 @@
   
 # Zusammenfassung Wahrscheinlichkeitstheorie und Statistik  
   
-## Grundlagen der Wahrscheinlichkeitstheorie  
-  
----  
-  
+## Grundlagen der wahrscheinlichkeitstheorie
+---
 ### Wahrscheinlichkeitsraum  
   
 Beschrieben mit $(\Omega, \mathcal{E}, \mathbb{P})$  
-  
+
 #### Ergebnismenge $\Omega$  
   
 Die Menge aller möglichen Ergebinsse eines Zufallsexperiments.  
